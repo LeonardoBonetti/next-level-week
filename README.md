@@ -1,5 +1,6 @@
 # next-level-week
 
+<img src="1920x1080.jpg"/>
 Aplication developed on Next Level Week bootcamp by Rocketseat
 
 ### Anotações:
