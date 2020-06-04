@@ -2,7 +2,7 @@
 
 Aplication developed on Next Level Week bootcamp by Rocketseat
 
-### Bibliotecas:
+### Anotações:
 
 - Typescript:
         <br> Functionality: Type the Javascript
